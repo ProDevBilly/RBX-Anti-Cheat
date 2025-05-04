@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepoName/main/PathToImage.png" alt="RBX Anti-Cheat Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepoName/main/assets/rbx-anti-cheat-logo.png" alt="RBX Anti-Cheat Logo" width="400"/>
 </p>
 
 <h1 align="center">RBX Anti-Cheat</h1>
 
-align="center">✅ Server-sided security
-align="center">✅ Community server logging (via webhook)
-align="center">✅ Global ban system
-align="center">✅ Fly, Speed, Inject, JumpPower, MaxHealth, and Tool detections
-align="center">✅ Easy integration with customizable config
+<p align="center">✅ Server-sided security</p>
+<p align="center">✅ Community server logging (via webhook)</p>
+<p align="center">✅ Global ban system</p>
+<p align="center">✅ Fly, Speed, Inject, JumpPower, MaxHealth, and Tool detections</p>
+<p align="center">✅ Easy integration with customizable config</p>
